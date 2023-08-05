@@ -1,5 +1,5 @@
 import { useEffect, useState } from "react";
-import supabase from "../config/superbaseClient";
+import supabase from "../config/supabaseClient";
 import SmoothieCard from "../components/SmoothieCard";
 
 const Home = () => {
