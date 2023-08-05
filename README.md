@@ -1,4 +1,4 @@
-# Starter React Project for the Supabase Course
+# Simply Smoothies React Js Supabase App
 
 **How to run the starter project:**
 
